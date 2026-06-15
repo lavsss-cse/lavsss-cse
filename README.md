@@ -1,4 +1,12 @@
-# Hi there, welcome to my Github profile!
+<p align="center">
+  <img src="https://github.com/lavsss-cse/lavsss-cse/blob/main/banner.png?raw=true" width="100%">
+</p>
+
+<h1 align="center">Hi there, Welcome to my GitHub!💜 </h1>
+<p align="center">
+  Full Stack Developer • UI Enthusiast • DSA Learner
+</p>
+
 ## About me
 - I am an aspiring full stack developer with strong interest in UI/UX Designing.
 - I am currently proficient in 3 programming languages - Python, Java and C.
