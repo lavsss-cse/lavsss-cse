@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi there, welcome to my Github profile!
+## About me
+- I am an aspiring full stack developer with strong interest in UI/UX Designing.
+- I am currently proficient in 3 programming languages - Python, Java and C.
+- Also, I am consistently solving problems in various platforms such as Leetcode and Codechef to strengthen my understanding of DSA.
+
+## Projects
+I have attached repositories of various projects I have worked on and some projects I am currently working on below.
+
+## What am I working on now?
+- Right now, I have decided to move to the practical side and working on various projects.
+  (Note: Projects that are currently being done are kept private and will be made public after completion!)
+- I am also learning a new programming language - Go
+- My focus has now shifted to learning of non linear data structures, after having complete understanding of the working and implementation of linear data structures.
 
 <!--
 **lavsss-cse/lavsss-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
