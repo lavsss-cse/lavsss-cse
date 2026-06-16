@@ -12,9 +12,6 @@
 - I am currently proficient in 3 programming languages - Python, Java and C.
 - Also, I am consistently solving problems in various platforms such as Leetcode and Codechef to strengthen my understanding of DSA.
 
-## Projects
-I have attached repositories of various projects I have worked on and some projects I am currently working on below.
-
 ## What am I working on now?
 - Right now, I have decided to move to the practical side and working on various projects.
   (Note: Projects that are currently being done are kept private and will be made public after completion!)
