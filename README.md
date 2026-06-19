@@ -4,19 +4,21 @@
 
 <h1 align="center">Hi there, Welcome to my GitHub!💜 </h1>
 <p align="center">
-  Full Stack Developer • UI Enthusiast • DSA Learner
+  Aspiring Full Stack Developer • UI Enthusiast • DSA Learner
 </p>
 
 ## About me
-- I am an aspiring full stack developer with strong interest in UI/UX Designing.
-- I am currently proficient in 3 programming languages - Python, Java and C.
-- Also, I am consistently solving problems in various platforms such as Leetcode and Codechef to strengthen my understanding of DSA.
+- I am an aspiring **Full Stack Developer** with strong interest in **UI/UX Design**.
+- I am currently proficient in **Python, Java and C**.
+- Also, I am consistently solving problems in various platforms such as **LeetCode and CodeChef** to strengthen my understanding of **DSA**.
 
 ## What am I working on now?
-- Right now, I have decided to move to the practical side and working on various projects.
+- I am currently focusing on the practical side of software development by working on **various projects**.
   (Note: Projects that are currently being done are kept private and will be made public after completion!)
-- I am also learning a new programming language - Go
-- My focus has now shifted to learning of non linear data structures, after having complete understanding of the working and implementation of linear data structures.
+- I am currently learning **Go**
+- My current focus is on **non linear data structures**, after building a solid understanding of the working and implementation of linear data structures.
+---
+
 
 <!--
 **lavsss-cse/lavsss-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
