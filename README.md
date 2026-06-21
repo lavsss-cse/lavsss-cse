@@ -7,30 +7,23 @@
   Aspiring Full Stack Developer • UI Enthusiast • DSA Learner
 </p>
 
-## About me
+## About Me
 - I am an aspiring **Full Stack Developer** with strong interest in **UI/UX Design**.
 - I am currently proficient in **Python, Java and C**.
-- Also, I am consistently solving problems in various platforms such as **LeetCode and CodeChef** to strengthen my understanding of **DSA**.
-
-## What am I working on now?
+- I actively solve problems on platforms such as **LeetCode** and **CodeChef** to strengthen my understanding of **Data Structures and Algorithms (DSA)**.
+  
+## Currently Working On
 - I am currently focusing on the practical side of software development by working on **various projects**.
   (Note: Projects that are currently being done are kept private and will be made public after completion!)
-- I am currently learning **Go**
-- My current focus is on **non linear data structures**, after building a solid understanding of the working and implementation of linear data structures.
----
+- I am currently learning **Angular and SpringBoot**
+- My current focus is on **non-linear data structures**, after building a solid understanding of **linear data structures** and their implementations.
+  
+## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mysql,git,github,figma,vscode" />
+</p>
 
-
-<!--
-**lavsss-cse/lavsss-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lavsss-cse&theme=midnight-purple&hide_border=true" />
+</p>
