@@ -15,7 +15,7 @@
 ## Currently Working On
 - I am currently focusing on the practical side of software development by working on **various projects**.
   (Note: Projects that are currently being done are kept private and will be made public after completion!)
-- I am currently learning **Angular and SpringBoot**
+- I am currently learning **Angular**
 - My current focus is on **non-linear data structures**, after building a solid understanding of **linear data structures** and their implementations.
   
 ## Tech Stack
