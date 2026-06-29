@@ -20,7 +20,7 @@
   
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mysql,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,git,github,figma,vscode" />
 </p>
 
 ## GitHub Activity
